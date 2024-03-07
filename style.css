@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    color: black;
+}
+h3{
+    margin-top: 10px;
+    margin-bottom:15px;
+    font-size: 20px;
+    color: black;
+}
+button{
+    margin-top: 20px;
+    font-size: 15px;
+    filter: drop-shadow(3px 3px 4px red);
+    font-size: 30px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.Color{
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+    filter: drop-shadow(3px 6px 4px rgba(90, 171, 194, 0.441));
+    margin: 20px auto;
+}
